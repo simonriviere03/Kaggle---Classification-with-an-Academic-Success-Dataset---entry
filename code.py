@@ -21,7 +21,7 @@ import xgboost as xgb
 
 import time
 
-path = 'B:/GER_ATUARIAL/Dados Estrategicos/Kaggle/Classification with an Academic Success Dataset/'
+path = 'create here your path'
 path_data = path + 'Data/'
 path_results = path + 'Results/'
 
@@ -417,10 +417,6 @@ if False:
     scores = cross_val_score(model_XGBop, x_train, y_train, cv = 5)
     print('Cross val score train', round(100 * scores.mean(), 2), ' %')
  
-
-# Regarder des exemples de oú le modele se trompe
-
-# Regarder, selon les variables, l'accuracy.
 
 
 
