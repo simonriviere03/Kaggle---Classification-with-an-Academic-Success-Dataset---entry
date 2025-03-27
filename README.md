@@ -3,3 +3,5 @@ A python code for the Kaggle competition "Classification with an Academic Succes
 
 It contains all classical steps data science project.
 
+Link to the competition:
+https://www.kaggle.com/competitions/playground-series-s4e6/overview
